@@ -1,4 +1,4 @@
 # llSPS-INT-1661-Predicting-Life-Expectancy-using-Machine-Learning
 ### Please enable the sound
 Predicting Life Expectancy using Machine Learning
-For use this "https://node-red-egjfu.eu-gb.mybluemix.net/ui/#!/0?socketid=Er220JrPviZ3cqRbAAAf" link can use my model
+For use this "https://node-red-oznyt.eu-gb.mybluemix.net/red/#flow/b61c1467.35d078" link can use my model
